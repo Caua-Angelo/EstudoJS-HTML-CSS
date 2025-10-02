@@ -1,0 +1,205 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ControleFerias",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Home": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Home/ConsultarFerias": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Home/AdicionarFerias": {
+      "post": {
+        "tags": [
+          "Home"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Ferias"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Ferias"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Ferias"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Home/ConsultarEquipe": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Colaborador": {
+        "required": [
+          "sNome"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "sNome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "equipeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "equipe": {
+            "$ref": "#/components/schemas/Equipe"
+          },
+          "colaboradorFerias": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ColaboradorFerias"
+            },
+            "nullable": true
+          },
+          "ferias": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ferias"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ColaboradorFerias": {
+        "type": "object",
+        "properties": {
+          "colaboradorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "colaborador": {
+            "$ref": "#/components/schemas/Colaborador"
+          },
+          "feriasId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ferias": {
+            "$ref": "#/components/schemas/Ferias"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Equipe": {
+        "required": [
+          "sNome"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "sNome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "colaboradores": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Colaborador"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Ferias": {
+        "required": [
+          "sDias"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dDataInicio": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "sDias": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "dDataFinal": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "sComentario": {
+            "type": "string",
+            "nullable": true
+          },
+          "colaboradorFerias": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ColaboradorFerias"
+            },
+            "nullable": true
+          },
+          "colaborador": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Colaborador"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

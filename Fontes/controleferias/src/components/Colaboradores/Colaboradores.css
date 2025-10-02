@@ -1,0 +1,19 @@
+.tabela {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+    height: 42vh;
+    width: 100%;
+}
+
+h2 {
+    margin: 10px 0px 5px 10px;
+    color: #1976d2;
+}
+
+.ferias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

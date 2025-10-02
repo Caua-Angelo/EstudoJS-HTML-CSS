@@ -1,0 +1,11 @@
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.AssemblyInfoInputs.cache
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.AssemblyInfo.cs
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.csproj.CoreCompileInputs.cache
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\bin\Release\net8.0\ControleFerias.Application.deps.json
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\bin\Release\net8.0\ControleFerias.Application.dll
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\bin\Release\net8.0\ControleFerias.Application.pdb
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.dll
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\refint\ControleFerias.Application.dll
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ControleFerias.Application.pdb
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Application\obj\Release\net8.0\ref\ControleFerias.Application.dll

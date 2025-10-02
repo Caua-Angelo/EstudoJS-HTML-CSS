@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "ControleFerias.Controllers.HomeController",
+    "Method": "ConsultarColaboradores",
+    "RelativePath": "Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleFerias.Controllers.HomeController",
+    "Method": "AdicionarFerias",
+    "RelativePath": "Home/AdicionarFerias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ferias",
+        "Type": "ControleFerias.Models.Ferias",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleFerias.Controllers.HomeController",
+    "Method": "ConsultarEquipe",
+    "RelativePath": "Home/ConsultarEquipe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleFerias.Controllers.HomeController",
+    "Method": "ConsultarFerias",
+    "RelativePath": "Home/ConsultarFerias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,4 @@
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Domain\obj\Release\net8.0\ControleFerias.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Domain\obj\Release\net8.0\ControleFerias.Domain.AssemblyInfoInputs.cache
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Domain\obj\Release\net8.0\ControleFerias.Domain.AssemblyInfo.cs
+C:\ProjetosComuns\branches\Desenvolvimento\ControleFerias\Fontes\ControleFerias.Domain\obj\Release\net8.0\ControleFerias.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,965 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\models\\colaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\models\\colaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\colaboradorincluirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\colaboradorincluirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\controllers\\feriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\controllers\\feriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\controllers\\equipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\controllers\\equipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6741454-5C9B-4249-84F8-92CD84230EF1}|ControleFerias.Application\\ControleFerias.Application.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.application\\controleferias.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6741454-5C9B-4249-84F8-92CD84230EF1}|ControleFerias.Application\\ControleFerias.Application.csproj|solutionrelative:controleferias.application\\controleferias.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\interfaces\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\interfaces\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\enums\\statusferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\enums\\statusferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\equipealterardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\equipealterardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\controleferias.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\controleferias.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6741454-5C9B-4249-84F8-92CD84230EF1}|ControleFerias.Application\\ControleFerias.Application.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.application\\controleferias.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D6741454-5C9B-4249-84F8-92CD84230EF1}|ControleFerias.Application\\ControleFerias.Application.csproj|solutionrelative:controleferias.application\\controleferias.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED260E-4B18-47AE-B957-5B69950E2E89}|ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.infraestructure\\controleferias.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05ED260E-4B18-47AE-B957-5B69950E2E89}|ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj|solutionrelative:controleferias.infraestructure\\controleferias.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\controleferias.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\controleferias.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.testes\\unittests\\colaboradorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|solutionrelative:controleferias.testes\\unittests\\colaboradorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\interfaces\\iferiasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\interfaces\\iferiasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.domain\\models\\colaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A7B6F-7F57-46C5-8EE1-7614CE17792B}|ControleFerias.Domain\\ControleFerias.Domain.csproj|solutionrelative:controleferias.domain\\models\\colaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.testes\\integrationtests\\colaboradorintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|solutionrelative:controleferias.testes\\integrationtests\\colaboradorintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.testes\\controleferias.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|solutionrelative:controleferias.testes\\controleferias.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.testes\\unittests\\feriasunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|solutionrelative:controleferias.testes\\unittests\\feriasunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\controleferias.testes\\unittests\\equipeunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959D0BFC-6787-4EE8-9609-E6D06F61D3E0}|ControleFerias.testes\\ControleFerias.testes.csproj|solutionrelative:controleferias.testes\\unittests\\equipeunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\caua.lopes\\Desktop\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250819183359_get-migraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\tabela\\Tabela.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\src\\components\\tabela\\Tabela.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\pages\\Ferias\\Ferias.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\src\\pages\\Ferias\\Ferias.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\alert\\alert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\src\\components\\alert\\alert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\store\\storeConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controleferias\\src\\store\\storeConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\feriasformatadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\feriasformatadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\equipeincluirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\equipeincluirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\colaboradorconsultardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\colaboradorconsultardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\dto\\colaboradorconsultarferiasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\dto\\colaboradorconsultarferiasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\models\\logalteracaocolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\models\\logalteracaocolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\example\\colaboradorincluirdtoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\example\\colaboradorincluirdtoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\example\\feriasincluirdtoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\example\\feriasincluirdtoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\migrations\\20250917171848_postgreajusteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\migrations\\20250917171848_postgreajusteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\configurationferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\configurationferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\configurationcolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\configurationcolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\configurationcolaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\configurationcolaboradorferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\configurationequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\configurationequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\data\\configurationlogalteracaocolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\data\\configurationlogalteracaocolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|c:\\projetoscomuns\\branches\\desenvolvimento\\controleferias\\fontes\\webapicontroleferias\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF05AAE7-7839-432B-AE24-377EA2887903}|WebApiControleFerias\\ControleFerias.API.csproj|solutionrelative:webapicontroleferias\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ControleFerias.Application",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Application\\ControleFerias.Application.csproj",
+              "RelativeDocumentMoniker": "ControleFerias.Application\\ControleFerias.Application.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Application\\ControleFerias.Application.csproj",
+              "RelativeToolTip": "ControleFerias.Application\\ControleFerias.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T17:03:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEquipeRepository.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IEquipeRepository.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Interfaces\\IEquipeRepository.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IEquipeRepository.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Interfaces\\IEquipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:06:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipeController.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\EquipeController.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Controllers\\EquipeController.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\EquipeController.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Controllers\\EquipeController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwJYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:28:38.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Program.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Program.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:36:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADMYAAAAAAAAAAAAAEIYAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-22T18:20:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColaboradorIncluirDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorIncluirDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\ColaboradorIncluirDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorIncluirDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\ColaboradorIncluirDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:36:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Interfaces\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Interfaces\\IColaboradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:05:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusFerias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Enums\\StatusFerias.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Enums\\StatusFerias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Enums\\StatusFerias.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Enums\\StatusFerias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:58:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeriasController.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\FeriasController.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Controllers\\FeriasController.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\FeriasController.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Controllers\\FeriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:11:40.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColaboradorFerias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\ColaboradorFerias.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Models\\ColaboradorFerias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\ColaboradorFerias.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Models\\ColaboradorFerias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:59:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Colaborador.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Models\\Colaborador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:39:56.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Controllers\\ColaboradorController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:56:18.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\appsettings.json",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.json",
+              "RelativeToolTip": "WebApiControleFerias\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T15:55:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControleFerias.Application.csproj",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Application\\ControleFerias.Application.csproj",
+              "RelativeDocumentMoniker": "ControleFerias.Application\\ControleFerias.Application.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Application\\ControleFerias.Application.csproj",
+              "RelativeToolTip": "ControleFerias.Application\\ControleFerias.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T15:56:52.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiControleFerias\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T12:54:15.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquipeAlterarDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\EquipeAlterarDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\EquipeAlterarDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\EquipeAlterarDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\EquipeAlterarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:56:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:49:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Models\\Equipe.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Equipe.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Models\\Equipe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:04:18.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ColaboradorUnitTest.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\ColaboradorUnitTest.cs",
+              "RelativeDocumentMoniker": "ControleFerias.testes\\UnitTests\\ColaboradorUnitTest.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\ColaboradorUnitTest.cs",
+              "RelativeToolTip": "ControleFerias.testes\\UnitTests\\ColaboradorUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:52:16.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ControleFerias.Domain.csproj",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\ControleFerias.Domain.csproj",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\ControleFerias.Domain.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\ControleFerias.Domain.csproj",
+              "RelativeToolTip": "ControleFerias.Domain\\ControleFerias.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T15:57:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ferias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Ferias.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Models\\Ferias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\Ferias.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Models\\Ferias.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:03:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControleFerias.API.csproj",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\ControleFerias.API.csproj",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\ControleFerias.API.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\ControleFerias.API.csproj",
+              "RelativeToolTip": "WebApiControleFerias\\ControleFerias.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T15:56:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ControleFerias.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj",
+              "RelativeToolTip": "ControleFerias.Infraestructure\\ControleFerias.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T16:30:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ferias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Ferias.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Models\\Ferias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Ferias.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Models\\Ferias.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwFAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:19:13.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Colaborador.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Models\\Colaborador.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:19:10.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFeriasRepository.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IFeriasRepository.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Interfaces\\IFeriasRepository.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Interfaces\\IFeriasRepository.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Interfaces\\IFeriasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:05:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Models\\Equipe.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\Equipe.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Models\\Equipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:18:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ColaboradorFerias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\ColaboradorFerias.cs",
+              "RelativeDocumentMoniker": "ControleFerias.Domain\\Models\\ColaboradorFerias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.Domain\\Models\\ColaboradorFerias.cs",
+              "RelativeToolTip": "ControleFerias.Domain\\Models\\ColaboradorFerias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:19:02.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FeriasFormatadaDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\FeriasFormatadaDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\FeriasFormatadaDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\FeriasFormatadaDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\FeriasFormatadaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:34:46.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EquipeIncluirDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\EquipeIncluirDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\EquipeIncluirDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\EquipeIncluirDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\EquipeIncluirDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:07:19.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ColaboradorConsultarDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorConsultarDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\ColaboradorConsultarDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorConsultarDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\ColaboradorConsultarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:41:58.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:06:05.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ColaboradorConsultarFeriasDTO.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorConsultarFeriasDTO.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\DTO\\ColaboradorConsultarFeriasDTO.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\DTO\\ColaboradorConsultarFeriasDTO.cs",
+              "RelativeToolTip": "WebApiControleFerias\\DTO\\ColaboradorConsultarFeriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:42:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ColaboradorIntegrationTest.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\IntegrationTests\\ColaboradorIntegrationTest.cs",
+              "RelativeDocumentMoniker": "ControleFerias.testes\\IntegrationTests\\ColaboradorIntegrationTest.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\IntegrationTests\\ColaboradorIntegrationTest.cs",
+              "RelativeToolTip": "ControleFerias.testes\\IntegrationTests\\ColaboradorIntegrationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T16:16:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LogAlteracaoColaborador.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\LogAlteracaoColaborador.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Models\\LogAlteracaoColaborador.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Models\\LogAlteracaoColaborador.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Models\\LogAlteracaoColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:53:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:50:13.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EquipeUnitTest.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\EquipeUnitTest.cs",
+              "RelativeDocumentMoniker": "ControleFerias.testes\\UnitTests\\EquipeUnitTest.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\EquipeUnitTest.cs",
+              "RelativeToolTip": "ControleFerias.testes\\UnitTests\\EquipeUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:13:27.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ControleFerias.testes.csproj",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\ControleFerias.testes.csproj",
+              "RelativeDocumentMoniker": "ControleFerias.testes\\ControleFerias.testes.csproj",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\ControleFerias.testes.csproj",
+              "RelativeToolTip": "ControleFerias.testes\\ControleFerias.testes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T17:51:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FeriasUnitTest.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\FeriasUnitTest.cs",
+              "RelativeDocumentMoniker": "ControleFerias.testes\\UnitTests\\FeriasUnitTest.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\ControleFerias.testes\\UnitTests\\FeriasUnitTest.cs",
+              "RelativeToolTip": "ControleFerias.testes\\UnitTests\\FeriasUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:13:50.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ColaboradorIncluirDTOExample.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Example\\ColaboradorIncluirDTOExample.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Example\\ColaboradorIncluirDTOExample.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Example\\ColaboradorIncluirDTOExample.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Example\\ColaboradorIncluirDTOExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:00:14.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FeriasIncluirDTOExample.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Example\\FeriasIncluirDTOExample.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Example\\FeriasIncluirDTOExample.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Example\\FeriasIncluirDTOExample.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Example\\FeriasIncluirDTOExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:03:10.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250917171848_postgreajusteinicial.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250917171848_postgreajusteinicial.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Migrations\\20250917171848_postgreajusteinicial.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250917171848_postgreajusteinicial.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Migrations\\20250917171848_postgreajusteinicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:18:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConfigurationFerias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationFerias.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ConfigurationFerias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationFerias.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ConfigurationFerias.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwD8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:31:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ConfigurationColaborador.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationColaborador.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ConfigurationColaborador.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationColaborador.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ConfigurationColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:11:47.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ConfigurationColaboradorFerias.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationColaboradorFerias.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ConfigurationColaboradorFerias.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationColaboradorFerias.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ConfigurationColaboradorFerias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:53:13.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ConfigurationEquipe.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationEquipe.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ConfigurationEquipe.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationEquipe.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ConfigurationEquipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:33:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv6EAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:00:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\package-lock.json",
+              "RelativeDocumentMoniker": "controleferias\\package-lock.json",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\package-lock.json",
+              "RelativeToolTip": "controleferias\\package-lock.json",
+              "ViewState": "AgIAAM8EAAAAAAAAAAAUwN0EAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T15:36:02.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ConfigurationLogAlteracaoColaborador.cs",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationLogAlteracaoColaborador.cs",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Data\\ConfigurationLogAlteracaoColaborador.cs",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Data\\ConfigurationLogAlteracaoColaborador.cs",
+              "RelativeToolTip": "WebApiControleFerias\\Data\\ConfigurationLogAlteracaoColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:55:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\appsettings.Development.json",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiControleFerias\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T18:11:16.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\appsettings.Production.json",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\appsettings.Production.json",
+              "RelativeToolTip": "WebApiControleFerias\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T12:18:01.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250819183359_get-migraton.cs",
+              "DocumentMoniker": "C:\\Users\\caua.lopes\\Desktop\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250819183359_get-migraton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\caua.lopes\\Desktop\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250819183359_get-migraton.cs",
+              "ToolTip": "C:\\Users\\caua.lopes\\Desktop\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250819183359_get-migraton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\caua.lopes\\Desktop\\ControleFerias\\Fontes\\WebApiControleFerias\\Migrations\\20250819183359_get-migraton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:33:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "WebApiControleFerias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\WebApiControleFerias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "WebApiControleFerias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-28T12:54:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tabela.jsx",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\tabela\\Tabela.jsx",
+              "RelativeDocumentMoniker": "controleferias\\src\\components\\tabela\\Tabela.jsx",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\tabela\\Tabela.jsx",
+              "RelativeToolTip": "controleferias\\src\\components\\tabela\\Tabela.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-07T15:36:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\.env",
+              "RelativeDocumentMoniker": "controleferias\\.env",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\.env",
+              "RelativeToolTip": "controleferias\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-07T15:36:02.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Ferias.jsx",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\pages\\Ferias\\Ferias.jsx",
+              "RelativeDocumentMoniker": "controleferias\\src\\pages\\Ferias\\Ferias.jsx",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\pages\\Ferias\\Ferias.jsx",
+              "RelativeToolTip": "controleferias\\src\\pages\\Ferias\\Ferias.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-07T15:36:02.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "alert.jsx",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\alert\\alert.jsx",
+              "RelativeDocumentMoniker": "controleferias\\src\\components\\alert\\alert.jsx",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\components\\alert\\alert.jsx",
+              "RelativeToolTip": "controleferias\\src\\components\\alert\\alert.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-07T15:36:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "storeConfig.js",
+              "DocumentMoniker": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\store\\storeConfig.js",
+              "RelativeDocumentMoniker": "controleferias\\src\\store\\storeConfig.js",
+              "ToolTip": "C:\\ProjetosComuns\\branches\\Desenvolvimento\\ControleFerias\\Fontes\\controleferias\\src\\store\\storeConfig.js",
+              "RelativeToolTip": "controleferias\\src\\store\\storeConfig.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-07T15:36:02.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
